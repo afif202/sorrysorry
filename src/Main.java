@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("ini push pertama");
+        System.out.println("ini push kedua");
+
     }
 }
